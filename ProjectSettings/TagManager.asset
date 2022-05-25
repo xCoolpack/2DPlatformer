@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Scores
+  - Death
+  - OneWayGround
+  - Damage
+  - EndOfLevel
+  - Projectile
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1402341419
+    locked: 0
+  - name: Midground
+    uniqueID: 1599759751
+    locked: 0
+  - name: Foreground
+    uniqueID: 2666100119
+    locked: 0
+  - name: Player
+    uniqueID: 1897644123
+    locked: 0
+  - name: Foreforeground
+    uniqueID: 2984739263
+    locked: 0
